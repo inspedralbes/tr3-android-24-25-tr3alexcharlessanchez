@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Idle
+    m_Hash: 1008081451
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Idle_01
+      m_Hash: 651714721
+      m_Sprite: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Adalt
+    m_Hash: 12637737
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Adalt_01
+      m_Hash: 765680592
+      m_Sprite: {fileID: -5555516100820877346, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5555516100820877346, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Adalt_02
+      m_Hash: 883559018
+      m_Sprite: {fileID: 3127135493822169564, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3127135493822169564, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Adalt_03
+      m_Hash: 61684476
+      m_Sprite: {fileID: 8453369968962837433, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8453369968962837433, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Adalt_04
+      m_Hash: 499756895
+      m_Sprite: {fileID: -8148041039008380478, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8148041039008380478, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Adalt_05
+      m_Hash: 718184393
+      m_Sprite: {fileID: -5430469943258568565, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5430469943258568565, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 5
+  - m_Name: Adalt_Parat
+    m_Hash: 178041232
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Adalt_Parat01
+      m_Hash: 40265642
+      m_Sprite: {fileID: -5555516100820877346, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5555516100820877346, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Abaix
+    m_Hash: 292172187
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Abaix_01
+      m_Hash: 205872674
+      m_Sprite: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Abaix_02
+      m_Hash: 357306264
+      m_Sprite: {fileID: -6783249675791454054, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6783249675791454054, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Abaix_03
+      m_Hash: 575356686
+      m_Sprite: {fileID: 7843722195659783911, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7843722195659783911, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Abaix_04
+      m_Hash: 1009756845
+      m_Sprite: {fileID: 4678699752311475242, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4678699752311475242, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Abaix_05
+      m_Hash: 187210299
+      m_Sprite: {fileID: 8561383307054486847, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8561383307054486847, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 5
+  - m_Name: Abaix_Parat
+    m_Hash: 146974151
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Abaix_Parat01
+      m_Hash: 759626266
+      m_Sprite: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Esquerra
+    m_Hash: 346200376
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Esquerra_01
+      m_Hash: 605733309
+      m_Sprite: {fileID: -5337565108058646933, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5337565108058646933, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Esquerra_02
+      m_Hash: 1024692231
+      m_Sprite: {fileID: -3209019120547066849, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3209019120547066849, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Esquerra_03
+      m_Hash: 169123985
+      m_Sprite: {fileID: 6484256120078463119, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6484256120078463119, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Esquerra_04
+      m_Hash: 342897970
+      m_Sprite: {fileID: 5397394973694347360, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5397394973694347360, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Esquerra_05
+      m_Hash: 595002788
+      m_Sprite: {fileID: 4482098738626005799, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4482098738626005799, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 5
+  - m_Name: Esquerra_Parat
+    m_Hash: 864059538
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Esquerra_Parat01
+      m_Hash: 562985998
+      m_Sprite: {fileID: -5337565108058646933, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5337565108058646933, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Dreta
+    m_Hash: 362644852
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Dreta_01
+      m_Hash: 227263928
+      m_Sprite: {fileID: -30957698604823143, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -30957698604823143, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Dreta_02
+      m_Hash: 344101890
+      m_Sprite: {fileID: 5925470932931468786, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5925470932931468786, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Dreta_03
+      m_Hash: 595960980
+      m_Sprite: {fileID: -6879240751942839004, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6879240751942839004, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Dreta_04
+      m_Hash: 1038168375
+      m_Sprite: {fileID: 2987432790536355547, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2987432790536355547, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Dreta_05
+      m_Hash: 182845857
+      m_Sprite: {fileID: -5511956678565191514, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5511956678565191514, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 5
+  - m_Name: Dreta_Parat
+    m_Hash: 372188294
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Dreta_Parat01
+      m_Hash: 513485061
+      m_Sprite: {fileID: -30957698604823143, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -30957698604823143, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Posar_Bomba
+    m_Hash: 210959300
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Posar_Bomba01
+      m_Hash: 179835258
+      m_Sprite: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8152213976018289586, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    - m_Name: Posar_Bomba02
+      m_Hash: 330383552
+      m_Sprite: {fileID: -8264950516263176186, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8264950516263176186, guid: 06b2f0e4237fd9927b4cd7a2f89f16fa, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638785884647123130
+  m_Version: 1
